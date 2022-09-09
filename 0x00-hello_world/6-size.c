@@ -1,12 +1,26 @@
 #include <stdio.h>
+
+
+
 /**
-*Main- Begins the Program
-*This code prints statements
-*Returns Always 0 Which is Success
+
+* main - print the string in the put function
+
+*
+
+* Description: using the main function
+
+* this program prints "Programming is like building a multilingual puzzle
+
+* Return: 0
+
 */
+
 int main(void)
+
 {
-char c;
+
+	char c;
 
 	int i;
 
@@ -29,4 +43,5 @@ char c;
 	printf("Size of a float: %ld byte(s)\n", sizeof(f));
 
 	return (0);
+
 }
