@@ -1,17 +1,10 @@
-#include <stdio.h>                                                                                                                                                                              
-
-/**                                                                                                                                                                                             
-
-* main - Entry point                                                                                                                                                                            
-
-* this prints a statement                                                                                                                                                                       
-
-*Return: Always 0 (Success)                                                                                                                                                                     
-
-*/                                                                                                                                                                                              
-
-int main(void)                                                                                                                                                                                  
-
+#include <stdio.h>
+/**
+*main - Entry point
+*This script prints a statement
+*Return: Always 0 (Success)
+*/
+int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 
