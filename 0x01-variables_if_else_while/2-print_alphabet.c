@@ -1,17 +1,10 @@
 #include <stdio.h>
-
 /**
-
- * main - entry point
-
- *
-
- * Return: alway returns 0
-
- *
-
- */
-
+* main - entry point
+*
+* Return: alway returns 0
+*
+*/
 int main(void)
 
 {
@@ -29,4 +22,3 @@ int main(void)
 	return (0);
 
 }
-:%s/\s\+$//e
